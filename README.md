@@ -1,8 +1,8 @@
-<!-- 👩‍💻 Animated heading with pink color -->
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=I'm+Fizza+Mushtaq;%2CTransforming+Ideas+into+Interactive+Designs" alt="Typing SVG" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=I'm+Fizza+Mushtaq;I+design+and+build+user-friendly+websites+that+convert;Glad+to+see+you+here!" alt="Typing SVG" />
 </h1>
+
 
 <!-- ✨ Intro section -->
 <p align="center">
@@ -16,17 +16,13 @@
   <tr>
     <td>
 
-- 🔭 I’m currently working on **Web App**
+- 🔭 I’m currently working on **Web App in REACT JS**
 
-- 🌱 I’m currently learning **MUI, Backend**
+- 🌱 I’m currently learning **React JS , Node JS and API Integration**
 
-- 👯 I’m looking to collaborate on **React.js**
+- 👯 I’m looking to collaborate on **UI/UX , FULL STACK DEVELOPER ** for learnwork
 
-- 🤝 I’m looking for help with **DevOps**
-
-- 👨‍💻 All of my projects are available at [fizzamushtaq](https://github.com/fizzamushtaq)
-
-- 💬 Ask me about **Frontend Development**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/fizzamushtaq)
 
 - 📫 How to reach me: **fizach581@gmail.com**
 
