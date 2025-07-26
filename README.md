@@ -6,7 +6,7 @@
 
 <!-- ✨ Intro section -->
 <p align="center">
-  A passionate and detail-oriented <strong>Frontend Developer</strong> with a background in <strong>Food Science & Nutrition</strong> from COMSATS University. I have 2+ years of experience crafting responsive UI, optimizing SEO, and building real-world projects using React.js, Firebase, and modern UI frameworks. I'm driven by a love for clean code, impactful design, and creating user-first web solutions.
+ A curious and creative <strong> Frontend Developer </strong> with a background in <strong> Food Science & Nutrition </strong>. I love crafting clean, user-focused web experiences and constantly explore new technologies to level up my skills and bring fresh ideas to life.
 </p>
 
 ---
