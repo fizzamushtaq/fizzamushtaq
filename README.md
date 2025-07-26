@@ -32,7 +32,7 @@
 
     </td>
     <td>
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="300" />
+    ![image alt]()
     </td>
   </tr>
 </table>
