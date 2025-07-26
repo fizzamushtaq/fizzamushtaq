@@ -32,7 +32,7 @@
 
     </td>
     <td>
-    ![image alt]()
+     <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coder Girl" width="280" />
     </td>
   </tr>
 </table>
@@ -58,13 +58,9 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme):
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fizzamushtaq&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzamushtaq&layout=compact&theme=tokyonight" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fizzamushtaq&theme=tokyonight" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fizzamushtaq&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzamushtaq&layout=compact&theme=tokyonight" width="300"/>
 </p>
